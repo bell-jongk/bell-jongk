@@ -8,9 +8,13 @@ I am interested in Go, Kubernetes and Vtubers.
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopher-bell&show_icons=true&show_icons=true&theme=tokyonight)
+  
 </td><td valign="top" width="50%">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
 </td></tr></table>
 
 ## Skills
