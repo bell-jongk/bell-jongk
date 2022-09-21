@@ -13,6 +13,10 @@ I am interested in Go, Kubernetes and Vtubers.
 
 </td></tr></table>
 
+## Skills
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+
 <!--
 **gopher-bell/gopher-bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
