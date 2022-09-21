@@ -9,11 +9,11 @@ I am interested in Go, Kubernetes and Vtubers.
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gopher-bell&show_icons=true&theme=tokyonight" align="left" style="width: 100%"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopher-bell)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&&langs_count=4&layout=compact&theme=tokyonight" align="left" style="width: 100%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>
 
