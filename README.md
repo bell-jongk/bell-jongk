@@ -14,6 +14,12 @@ I am interested in Go, Kubernetes and Vtubers.
 </td></tr></table>
 
 ## Skills
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/> 
+<img src="https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"/>  
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat"/>
+
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
