@@ -9,7 +9,7 @@ I am interested in Go, Kubernetes and Vtubers.
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gopher-bell&theme=tokyonight&show_icons=true" style="width: 100%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gopher-bell&theme=tokyonight&show_icons=true" style="width: 100%"/>
 
 </td><td valign="top" width="50%">
 
