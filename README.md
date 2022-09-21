@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_00ADD8&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=World&descAlignY=51&descAlign=62" />
 </p>
+
 ### Hello, I am Jong! 👋
 
 I am interested in Go, Kubernetes and Vtubers.
