@@ -7,12 +7,15 @@
 I am interested in Go, Kubernetes and Vtubers.
 
 ## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<table><tr><td valign="top" width="50%">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gopher-bell&repo=github-readme-stats&theme=tokyonight&show_icons=true" style="width: 100%"/>
+
+</td><td valign="top" width="50%">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&langs_count=4&layout=compact&theme=tokyonight" style="width: 100%" />
+
+</td></tr></table>
 
 ## Skills
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
