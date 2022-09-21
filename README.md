@@ -7,15 +7,7 @@
 I am interested in Go, Kubernetes and Vtubers.
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopher-bell&show_icons=true&theme=tokyonight)
-  
-</td><td valign="top" width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-</td></tr></table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&show_icons=true&theme=radical)
 
 ## Skills
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/> 
