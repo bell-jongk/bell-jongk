@@ -3,10 +3,15 @@
 I am interested in Go, Kubernetes and Vtubers.
 
 ## Github Stats
-![gopher-bell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopher-bell&show_icons=true&theme=tokyonight)
+<table><tr><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=gopher-bell&show_icons=true&theme=tokyonight" align="left" style="width: 100%"/>
 
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&&langs_count=4&layout=compact&theme=tokyonight" align="left" style="width: 100%"/>
+
+</td></tr></table>
 
 <!--
 **gopher-bell/gopher-bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
