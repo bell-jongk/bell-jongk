@@ -13,7 +13,7 @@ I am interested in Go, Kubernetes and Vtubers.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&hide=Objective-C%2B%2B,html&langs_count=4&layout=compact&theme=tokyonight" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopher-bell&hide=Objective-C%2B%2B,html,css&langs_count=4&layout=compact&theme=tokyonight" align="left" style="width: 100%"/>
 
 </td></tr></table>
 
