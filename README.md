@@ -4,7 +4,7 @@
 
 ### Hello, I am Jong! 👋
 
-I am interested in Go, Kubernetes and Vtubers.
+I love Go, Kubernetes and Hololive.
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
