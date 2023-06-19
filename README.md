@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=世界&descAlignY=51&descAlign=62" />
 </p>
 
-### Hello, I am Jong! 👋
+### Hello, I am Bell! 👋
 
 I love Go, Kubernetes and Hololive.
 
