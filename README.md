@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=世界&descAlignY=51&descAlign=62" />
 </p>
 
-### Hello, I am Bell! 👋
-
-I love Go, Kubernetes and Hololive.
-
 <!--
 ## Github Stats
 <table><tr><td valign="top" width="50%">
@@ -25,6 +21,10 @@ I love Go, Kubernetes and Hololive.
 ## Have Used
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+
+### Hello, I am Bell! 👋
+
+I love Go, Kubernetes and Hololive.
 
 <!--
 **gopher-bell/gopher-bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
