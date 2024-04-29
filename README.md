@@ -17,7 +17,7 @@
 
 ### Hello, I am Bell! 👋
 
-I love Go, Kubernetes and Hololive.
+I love Go, Ice Cream and Hololive.
 
 ## Skills
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"/> 
